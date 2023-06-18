@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IndrawanBudiP
-- 👀 I’m interested in Deep Learning, Network Communication , IoT, Cloud & Fog Computing
+- 👀 I’m interested in Network Communication , IoT, Cloud & Fog Computing
 - 📫 How to reach me indrawanbudiprasetyo@gmail.com
 
 <!---
